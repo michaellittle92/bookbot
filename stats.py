@@ -8,7 +8,7 @@ def get_num_words(file_path):
     file_contents = get_book_text(file_path)
     list_of_words = file_contents.split()
     word_count = len(list_of_words)
-    print(f"{word_count} words found in the document")
+    return word_count
 
 def sort_on(dict):
     return dict["num"]
