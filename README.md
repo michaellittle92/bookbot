@@ -1,3 +1,5 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+pass in a text file as an agrument on from your terminal. 
+
+e.g; python3 main.py books/ToKillAMockingbird.txt
